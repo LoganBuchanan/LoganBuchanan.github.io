@@ -8,3 +8,5 @@ Python and HTML.
 Born and raised in Charlotte, North Carolina where I have an
 interest in Gaming, Anime, Music, Lawn Care, and Grilling out
 with a Cig and Cold Beer.
+
+### Projects-
