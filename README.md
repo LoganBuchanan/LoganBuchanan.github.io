@@ -1,4 +1,4 @@
-# LoganBuchanan.github.io
+# Logan Buchanan
 ## About Me
 Hello, Im Logan Buchanan and here is a little about myself,
 Im a rising Junior at UNC Charlotte majoring in Computer Science
