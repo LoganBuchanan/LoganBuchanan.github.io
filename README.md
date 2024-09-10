@@ -10,3 +10,5 @@ interest in Gaming, Anime, Music, Lawn Care, and Grilling out
 with a Cig and Cold Beer.
 
 ### Projects-
+
+https://github.com/LoganBuchanan/LoganBuchanan.github.io/blob/master/Heart_Attack_Risk(1).ipynb
