@@ -11,6 +11,7 @@ with a Cig and Cold Beer.
 
 ### Projects-
 
-<a href="https://github.com/LoganBuchanan/LoganBuchanan.github.io/blob/main/Heart_Attack_Risk(1).ipynb"><img src="project1.jpg" alt="Link project."></a>
+<a href="https://github.com/LoganBuchanan/LoganBuchanan.github.io/blob/main/Heart_Attack_Risk(1).ipynb" width="25" 
+     height="25"><img src="project1.jpg" alt="Link project.">Project 1</a>
 
 
