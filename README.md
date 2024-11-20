@@ -9,7 +9,7 @@ Born and raised in Charlotte, North Carolina where I have an
 interest in Gaming, Anime, Music, Lawn Care, and Grilling out
 with a Cig and Cold Beer.
 
-### Projects-
+# Projects-
 
 ## Project 1
 <a href="https://github.com/LoganBuchanan/LoganBuchanan.github.io/blob/main/Heart_Attack_Risk_Final.ipynb" target="_blank" rel="noopener noreferrer"><img src="project1.jpg" alt="Link project." style="width:125px;height:125px;"></a>
